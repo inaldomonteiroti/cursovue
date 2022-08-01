@@ -13,9 +13,9 @@ const MyNameApp = {
 
             console.log("Caiu aqui");
 
-            // console.log(this.input_name);
+            console.log(this.input_name);
 
-            // this.name = this.input_name;
+            this.name = this.input_name;
 
         }
     }
